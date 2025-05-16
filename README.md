@@ -1,4 +1,4 @@
-# Security Assessment Report
+# Security Assessment
 
 Welcome to the official repository for my graduation project submitted as part of the **Digital Egyptian Pioneers Initiative (DEPI)** in the **Infrastructure Cybersecurity** track.
 
