@@ -10,7 +10,6 @@ Instead of building a physical environment, we strategically pieced together a r
 
 This repository includes the deliverables from that engagement.
 
----
 
 ## 🛠️ Penetration Testing Phases
 
@@ -34,7 +33,6 @@ The internal penetration test was simulated with the Wreath and Attacktive Direc
 | Wreath-PC (10.200.81.100)  | IPT-007, IPT-008, IPT-009   | Unrestricted file upload, info leakage via code comments, unquoted service path |
 | Domain Controller (10.10.254.39) | IPT-010, IPT-011, IPT-012 | Kerberoasting, insecure credential storage, domain admin privilege abuse |
 
----
 
 ## 📄 Deliverables
 
@@ -55,7 +53,6 @@ Outlines the scope of the project, team responsibilities, selected boxes/rooms, 
 
 📁 File: `DEPI Graduation Project Overview.pdf`
 
----
 
 ## 👨‍💻 My Role
 
@@ -64,7 +61,6 @@ Outlines the scope of the project, team responsibilities, selected boxes/rooms, 
 - Led the **documentation effort** by creating the full Security Assessment Report
 - Consolidated findings from all team members into a professional-grade deliverable
 
----
 
 ## 🧠 What I Learned
 
@@ -73,24 +69,6 @@ This project gave me hands-on experience in:
 - Performing end-to-end penetration testing engagements
 - Using tools like Nmap, Burp Suite, Chisel, Evil-WinRM, Mimikatz, Hashcat, and more
 - Writing detailed, actionable security documentation that aligns with frameworks like **NIST SP 800-115** and **OWASP**
-
----
-
-## 🤝 Credits
-
-Big thanks to the amazing team:  
-- **Khaled Shaaban**  
-- Abdelrahman Tarek  
-- Abd Elrhman Emad  
-- Eslam Salem  
-- Mohamed Ali  
-- Sandra Adel  
-
-And a special thank-you to the mentors and organizers of **DEPI** for their guidance and support throughout the journey.
-
----
-
-
 
 ## 🔐 Disclaimer
 
