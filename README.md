@@ -1,4 +1,4 @@
-# Security Assessment
+# Security Assessment Simulation
 
 Welcome to the official repository for my graduation project submitted as part of the **Digital Egyptian Pioneers Initiative (DEPI)** in the **Infrastructure Cybersecurity** track.
 
@@ -25,7 +25,7 @@ This repository includes the deliverables from that engagement.
 | Jack                 | TryHackMe    | EPT-011, EPT-012, EPT-013     | Brute force via XML-RPC, parameter tampering, vulnerable cron job |
 
 ### 🖥️ Internal Penetration Testing
-The internal penetration test was simulated with the Wreath and Attacktive Directory rooms on TryHackme.
+The internal penetration test was simulated with the **Wreath** and **Attacktive Directory** rooms on TryHackme.
 
 | Host / Component     | Vulnerability Code(s)         | Description                             |
 |----------------------|-------------------------------|-----------------------------------------|
